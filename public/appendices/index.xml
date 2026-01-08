@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Appendices</title>
+    <link>//localhost:57337/appendices/index.html</link>
+    <description>Glossary of Hugo terms Useful Hugo commands reference Recommended resources and communities Changelog The changes listed below Changes to the [month] version New entries Changed entries</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 31 Dec 2025 18:52:05 +0700</lastBuildDate>
+    <atom:link href="//localhost:57337/appendices/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Glossary</title>
+      <link>//localhost:57337/appendices/glossary/index.html</link>
+      <pubDate>Wed, 31 Dec 2025 18:52:05 +0700</pubDate>
+      <guid>//localhost:57337/appendices/glossary/index.html</guid>
+      <description>Term: Definition: Alias: Category: Further Reading: See details.&#xA;404 Page&#xA;A 404 page informs users that a requested page doesn’t exist.&#xA;404 Page&#xD;A 404 page informs users that a requested page doesn’t exist.</description>
+    </item>
+  </channel>
+</rss>

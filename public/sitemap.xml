@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>//localhost:57337/appendices/glossary/index.html</loc>
+    <lastmod>2025-12-31T18:52:05+07:00</lastmod>
+  </url>
+  <url>
+    <loc>//localhost:57337/overview/index.html</loc>
+  </url>
+  <url>
+    <loc>//localhost:57337/getting-started/index.html</loc>
+  </url>
+  <url>
+    <loc>//localhost:57337/writing-content/index.html</loc>
+  </url>
+  <url>
+    <loc>//localhost:57337/information-architecture/index.html</loc>
+  </url>
+  <url>
+    <loc>//localhost:57337/theme-customization/index.html</loc>
+  </url>
+  <url>
+    <loc>//localhost:57337/advanced-features/index.html</loc>
+  </url>
+  <url>
+    <loc>//localhost:57337/docs-as-code/index.html</loc>
+  </url>
+  <url>
+    <loc>//localhost:57337/troubleshooting/index.html</loc>
+  </url>
+  <url>
+    <loc>//localhost:57337/appendices/index.html</loc>
+    <lastmod>2025-12-31T12:00:23+07:00</lastmod>
+  </url>
+  <url>
+    <loc>//localhost:57337/categories/index.html</loc>
+  </url>
+  <url>
+    <loc>//localhost:57337/tags/index.html</loc>
+  </url>
+</urlset>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>//localhost:57337/index.html</link>
+    <description>(unofficial) Documentation&#xA;HUGO FOR TECHNICAL WRITER&#xD;INDEX Explore this documentation by articles.&#xA;Overview Getting Started Writing Content Information Architecture Theme Customization Advanced Features Docs-as-Code Workflow Troubleshooting &amp; FAQs Appendices</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 31 Dec 2025 12:00:23 +0700</lastBuildDate>
+    <atom:link href="//localhost:57337/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Overview</title>
+      <link>//localhost:57337/overview/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:57337/overview/index.html</guid>
+      <description>What is Hugo?&#xD;Hugo is a static site generator (SSG) that converts Markdown files into complete HTML websites. It’s widely used for technical documentation, landing pages, blogs, and project sites.&#xA;Unlike content management systems (CMS) that build pages dynamically on each request, Hugo pre-builds all pages, resulting in extremely fast load times and simple hosting. For technical writers, this means you can write documentation in plain Markdown, version control everything with Git, and publish professional documentation sites without managing databases or complex infrastructure.</description>
+    </item>
+    <item>
+      <title>Getting Started</title>
+      <link>//localhost:57337/getting-started/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:57337/getting-started/index.html</guid>
+      <description>Prerequisites and system requirements&#xD;Installing Hugo (Windows, macOS, Linux)&#xD;Choosing a documentation theme&#xD;Understanding the Hugo folder structure&#xD;Configuration basics</description>
+    </item>
+    <item>
+      <title>Writing Content</title>
+      <link>//localhost:57337/writing-content/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:57337/writing-content/index.html</guid>
+      <description>next page to writing pages in markdown</description>
+    </item>
+    <item>
+      <title>Information Architecture</title>
+      <link>//localhost:57337/information-architecture/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:57337/information-architecture/index.html</guid>
+      <description>Designing a documentation structure&#xD;Sections vs pages in Hugo&#xD;Navigation and menu design&#xD;Ordering content logically&#xD;Breadcrumbs and user orientation&#xD;Scalable documentation structure</description>
+    </item>
+    <item>
+      <title>Theme Customization</title>
+      <link>//localhost:57337/theme-customization/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:57337/theme-customization/index.html</guid>
+      <description>Understanding config files&#xD;Customizing site title, logo, and menus&#xD;Docs navigation and sidebar configuration&#xD;Styling for readability&#xD;Custom layouts for special pages</description>
+    </item>
+    <item>
+      <title>Advanced Features</title>
+      <link>//localhost:57337/advanced-features/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:57337/advanced-features/index.html</guid>
+      <description>Taxonomies and tags&#xD;Content reuse strategies&#xD;Creating custom shortcodes&#xD;Search functionality&#xD;Multilingual documentation basics</description>
+    </item>
+    <item>
+      <title>Docs-as-Code Workflow</title>
+      <link>//localhost:57337/docs-as-code/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:57337/docs-as-code/index.html</guid>
+      <description>Writing documentation with Git and GitHub&#xD;Version control basics for writers&#xD;Branching strategies for documentation&#xD;Reviewing documentation changes&#xD;Publishing with GitHub Pages / Netlify / Cloudflare Pages</description>
+    </item>
+    <item>
+      <title>Troubleshooting &amp; FAQs</title>
+      <link>//localhost:57337/troubleshooting/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:57337/troubleshooting/index.html</guid>
+      <description>Page not appearing in menu&#xD;Broken internal links&#xD;Content ordering issues&#xD;Build errors explained&#xD;Theme conflicts and compatibility&#xD;Common Hugo mistakes for writers</description>
+    </item>
+    <item>
+      <title>Appendices</title>
+      <link>//localhost:57337/appendices/index.html</link>
+      <pubDate>Wed, 31 Dec 2025 12:00:23 +0700</pubDate>
+      <guid>//localhost:57337/appendices/index.html</guid>
+      <description>Glossary of Hugo terms Useful Hugo commands reference Recommended resources and communities Changelog The changes listed below Changes to the [month] version New entries Changed entries</description>
+    </item>
+  </channel>
+</rss>

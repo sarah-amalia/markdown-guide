@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Overview</title>
+    <link>//localhost:57337/overview/index.html</link>
+    <description>What is Hugo?&#xD;Hugo is a static site generator (SSG) that converts Markdown files into complete HTML websites. It’s widely used for technical documentation, landing pages, blogs, and project sites.&#xA;Unlike content management systems (CMS) that build pages dynamically on each request, Hugo pre-builds all pages, resulting in extremely fast load times and simple hosting. For technical writers, this means you can write documentation in plain Markdown, version control everything with Git, and publish professional documentation sites without managing databases or complex infrastructure.</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="//localhost:57337/overview/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

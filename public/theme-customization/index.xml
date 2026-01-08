@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Theme Customization</title>
+    <link>//localhost:57337/theme-customization/index.html</link>
+    <description>Understanding config files&#xD;Customizing site title, logo, and menus&#xD;Docs navigation and sidebar configuration&#xD;Styling for readability&#xD;Custom layouts for special pages</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="//localhost:57337/theme-customization/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

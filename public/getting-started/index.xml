@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Getting Started</title>
+    <link>//localhost:57337/getting-started/index.html</link>
+    <description>Prerequisites and system requirements&#xD;Installing Hugo (Windows, macOS, Linux)&#xD;Choosing a documentation theme&#xD;Understanding the Hugo folder structure&#xD;Configuration basics</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="//localhost:57337/getting-started/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
