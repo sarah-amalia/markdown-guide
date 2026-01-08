@@ -1,3 +1,4 @@
+baseURL: https://github.com/sarah-amalia/hugo-docs
 theme = 'hugo-theme-relearn'
 
  [params]
