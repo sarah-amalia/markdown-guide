@@ -1,7 +1,7 @@
-baseURL: https://github.com/sarah-amalia/hugo-docs
+baseURL = 'https://effortless-tanuki-7407a0.netlify.app/'
 theme = 'hugo-theme-relearn'
 
- [params]
+[params]
   themeVariant = 'zen-dark'
 
 [module]
@@ -14,7 +14,7 @@ theme = 'hugo-theme-relearn'
 
 [outputFormats]
   [outputFormats.print]
-    name= 'print'
+    name = 'print'
     baseName = 'index.print'
     isHTML = true
     mediaType = 'text/html'
@@ -22,26 +22,23 @@ theme = 'hugo-theme-relearn'
     noUgly = true
 
   [outputFormats.source]
-    name= 'source'
+    name = 'source'
     baseName = 'index.source'
     isHTML = false
     mediaType = 'text/markdown'
     permalinkable = false
     noUgly = true
 
-  # unused since 7.0.0 but left in here to generate warnings
   [outputFormats.search]
-    name= 'search'
+    name = 'search'
     baseName = 'index.searchindex'
     isHTML = true
     mediaType = 'text/html'
     permalinkable = false
     noUgly = true
-    
 
-  # unused since 7.0.0 but left in here to generate warnings
   [outputFormats.searchpage]
-    name= 'searchpage'
+    name = 'searchpage'
     baseName = 'index.searchpage'
     isHTML = true
     mediaType = 'text/html'
@@ -59,4 +56,3 @@ theme = 'hugo-theme-relearn'
     name = 'Search'
   [params.relearn.dependencies.theme]
     name = 'Theme'
- 
