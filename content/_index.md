@@ -1,7 +1,4 @@
 ---
-
-
-lastmod: 2025-12-31T09:08:43+07:00
 draft: false
 
 author: "Sarah Amalia"
