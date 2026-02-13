@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Basics</title>
+    <link>http://localhost:1313/basic/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 12 Feb 2026 20:29:27 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/basic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basic Syntax in Markdown</title>
+      <link>http://localhost:1313/basic/basic/index.html</link>
+      <pubDate>Thu, 12 Feb 2026 20:29:27 +0700</pubDate>
+      <guid>http://localhost:1313/basic/basic/index.html</guid>
+      <description>Heading&#xD;There are 6 level hierarchy of heading that you can use in Markdown. To create heading, add hashtag symbols # before you write the headers. The amount of # you add will respond the 1-6 typeface size of your heading level hierarchy.&#xA;Heading level hierarchy Markdown syntax Example Level 1 Title page # Heading level 1 Level 2 Main topic ## Heading level 2 Level 3 Sub topic ### Heading level 3 Rendered output example:</description>
+    </item>
+  </channel>
+</rss>

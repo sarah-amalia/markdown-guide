@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools</title>
+    <link>http://localhost:1313/tool/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 13 Feb 2026 08:21:42 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tool/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown Supported Tool</title>
+      <link>http://localhost:1313/tool/tool/index.html</link>
+      <pubDate>Fri, 13 Feb 2026 08:21:42 +0700</pubDate>
+      <guid>http://localhost:1313/tool/tool/index.html</guid>
+      <description>Productivity App:&#xA;Notion: all-in-one knowledge management tools Obsidian: Markdown note-taking app Trello: kanban project management Joplin: note-taking app Logseq: note-taking app Typora: essay and report document editor Simplenote: note-taking app Social:&#xA;Reddit: dicussion platform Slack: team messaging and collaboration app Markdown Editor:&#xA;Stackedit: in-browser live view markdown editor marktext: open-source markdown editor VS Code: all-inone code editor Google Docs: docx to markdown converter And many more. Majority of tools support markdown. The above lists is the application and platform that you might be familiar and good for your best practice.</description>
+    </item>
+  </channel>
+</rss>

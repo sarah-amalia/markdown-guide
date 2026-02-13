@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Troubleshooting &amp; FAQs</title>
-    <link>//localhost:57337/troubleshooting/index.html</link>
+    <link>http://localhost:1313/troubleshooting/index.html</link>
     <description>Page not appearing in menu&#xD;Broken internal links&#xD;Content ordering issues&#xD;Build errors explained&#xD;Theme conflicts and compatibility&#xD;Common Hugo mistakes for writers</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="//localhost:57337/troubleshooting/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/troubleshooting/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
