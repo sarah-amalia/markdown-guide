@@ -1,10 +1,7 @@
 ---
-<<<<<<< HEAD
 title: ""
 date: 2026-02-13T15:09:59+07:00
 lastmod: 2026-02-13T15:09:59+07:00
-=======
->>>>>>> 9311a08ad374da8ad2cf7cfea697083cab49d2e9
 draft: false
 
 author: "Sarah"
@@ -22,7 +19,6 @@ showReadingTime: true
 (Unnoficial)
 ###    MARKDOWN GUIDE FOR WRITERS
 
-<<<<<<< HEAD
 ---
  
 INDEX  
@@ -37,6 +33,3 @@ Explore this guide by section and topic.
 
 ---
 * [About this Guide](/about/)
-=======
-----
->>>>>>> 9311a08ad374da8ad2cf7cfea697083cab49d2e9
